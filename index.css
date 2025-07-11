@@ -5,7 +5,6 @@ body {
     align-items: center;
     justify-content: center;
 }
-
 .container {
     display: flex;
     justify-content: space-around;
@@ -13,18 +12,12 @@ body {
     width : 575px;
     height: 385px;
     background-color: #1B244A;
-    
     margin: 20px;
     border: 5px solid #ffffff;
     border-radius: 10px;
-   
-    
 } 
-
 .first{
     text-align: center;
-    
-    
 }
 
 .titel{
@@ -35,24 +28,18 @@ body {
     letter-spacing: 0%;
     text-align: center;
     color: #EEEEEE;
-
 }
 
 .box{
     width: 155px;
     height: 120px;
     background-color: #080001;
-    
     border-radius: 5px;
-    
     margin-bottom: 17px;
-
 }
 
 .dis{
-    /* font-family: Cursed Timer ULiL; */
-     font-family: 'Cursed Timer ULiL', sans-serif;
-                                                
+    font-family: 'Cursed Timer ULiL', sans-serif;                                        
     font-weight: 400;
     font-size: 90px;
     line-height: 126.67px;
@@ -63,17 +50,12 @@ body {
     height: 120px;
 ;
 }
-
-
-
-
 .score{
     display: flex;
     justify-content: space-between;
     width: 155px;
     height: 45px;
 }
-
 .btn{
     width: 45px;
     height: 45px;
@@ -82,5 +64,4 @@ body {
     border-width: 2px;
     font-family: 'Cursed Timer ULiL', sans-serif;
     color: #9AABD8;
-
 }
